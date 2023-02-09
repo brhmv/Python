@@ -1,0 +1,1 @@
+{"Cola": 1, "Doner": 2.0, "Gamburger": 2.6, "Sprite": 1.2}
